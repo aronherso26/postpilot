@@ -1,0 +1,151 @@
+.header{
+    background-color: whitesmoke;
+    height: 65px;
+}
+.img{
+margin-left: 10px;
+}
+.link{
+    text-decoration: none;
+    margin-left: 20px;
+}
+.link:hover{
+    text-decoration: lightgrey;
+}
+.head{
+    padding: 15px;
+}
+.btn2{
+    border-radius: 10px;
+    background-color: white;
+}
+.btn1{
+    border-radius: 10px;
+    background-color: orangered;
+}
+.cardimg{
+    height: 40px;
+    width: 120px;
+    margin-top: 5px;
+}
+.likecrazy{
+    background-color:lightblue;
+}
+.para{
+    border-style: groove;
+    border-radius: 10px;
+    width: 450px;
+    padding: 6px;
+}
+.img1{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 2px;
+}
+.btn3{
+    border-radius: 10px;
+    background-color:orangered;   
+}
+.cinch{
+    background-color:lightgoldenrodyellow;
+}
+.img2{
+    padding: 50px;
+    width: 350px;
+    height: 245px;
+}
+.img3{
+    padding: 10px;
+    height: 276px;
+    width: 350px;
+}
+.cardd{
+    background-color: white;
+}
+.img4{
+    
+    padding: 20px;
+}
+.img5{
+    padding: 18px;
+    width: 350px;
+    height: 243px;
+}
+.color1{
+    background-color:rgb(254,230,142);
+}
+.color2{
+    background-color: lightgreen;
+}
+.color3{
+    background-color:rgb(168, 101, 201);
+}
+.color4{
+    background-color: lightblue;
+}
+.color5{
+background-color: burlywood;
+}
+.color6{
+    background-color:whitesmoke;
+}
+.img6{
+    height: 242px;
+    padding: 10px;
+}
+.img7{
+padding: 7px;
+}
+.para2{
+    text-align:left;
+    margin-left: 160px;
+}
+.space{
+    word-spacing: 120;
+    color: darkgrey;
+}
+.fast{
+    background-color: lightblue;
+}
+.space1{
+    word-spacing: 120px;
+}
+.prof{
+    margin: 0 300px 0 2px;
+    height: 50px;
+    width: 50px;
+}
+
+.name{
+    text-align: center;
+}
+.card{
+    border-radius: 50px;
+}
+.btn5{
+    border-radius: 10px;
+    background-color:white;  
+    box-shadow: 2px 2px;
+}
+.pur{
+    background-color: rgb(234, 202, 250);
+}
+.img8{
+    width: 500px;
+}
+.try{
+    background-color: rgb(255, 136, 1);
+}
+.white{
+    color: white;
+}
+.img9{
+    height: 300px;
+    width: 350px;
+}
+.img10{
+    width: 350px;
+}
+.ins{
+    background-color: whitesmoke;
+}
